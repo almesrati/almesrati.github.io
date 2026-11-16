@@ -1082,6 +1082,17 @@ p {
   }
 }
 
+/* علامة «جديد» على تبويب الصنف */
+.pill-new {
+  padding: 0 0.45rem;
+  border-radius: 999px;
+  background: var(--gold);
+  color: var(--navy-deep);
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1.6;
+}
+
 
 /* ---------- الأقسام: عنوان في الوسط تحته زخرفة الشعار ---------- */
 .sec {
